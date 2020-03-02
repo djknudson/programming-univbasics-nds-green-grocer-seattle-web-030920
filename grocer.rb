@@ -66,7 +66,7 @@ counter = 0
     end
     counter += 1 
   end
-  cart  
+  cart
 end
 
 def checkout(cart, coupons)
